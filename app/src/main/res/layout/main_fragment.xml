@@ -7,6 +7,6 @@
     <ImageButton
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:src="@drawable/add_a_photo"/>
+        android:src="@drawable/add_a_photo" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
